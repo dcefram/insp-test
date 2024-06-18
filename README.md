@@ -2,6 +2,8 @@
 
 Some coding test stuff
 
+Note that we won't typically try to solve all exercises here. We would just cherrypick one or two, depending on the flow of the technical interview.
+
 ## Run tests
 
 There are currently three tests. You can run each by executing these:
