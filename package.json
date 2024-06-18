@@ -4,7 +4,9 @@
   "description": "",
   "main": "cloneObject.js",
   "scripts": {
-    "test": "jest"
+    "test:clone-object": "jest ./cloneObject.test.js",
+    "test:most-recurring": "jest ./mostRecurringLetters.test.js",
+    "test:full-justify": "jest ./fullJustify.test.js"
   },
   "author": "",
   "license": "ISC",
